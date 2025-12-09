@@ -3,14 +3,14 @@ End-to-end ETL pipeline built on AWS (S3 → Glue → Redshift) with a predictiv
 
 ## 📄 Project Materials
 
-- **[Final Project Presentation (PDF)](docs/final_presentation.pdf)**
-- **[Project Description Document](docs/project_description.docx)**
+- **[Final Project Presentation (PDF)](https://github.com/meesumkazmi1/aws-etl-data-pipeline/blob/main/docs/Presenation.pdf)**
+- **[Project Description Document](https://github.com/meesumkazmi1/aws-etl-data-pipeline/blob/main/docs/Description.docx)**
 
 ## 🎥 Video Walkthrough
 
 A short walkthrough of the AWS pipeline and the SageMaker bankruptcy prediction model:
 
-➡️ **[Watch the Video Demo](YOUR_VIDEO_LINK_HERE)**
+➡️ **[Watch the Video Demo](https://drive.google.com/drive/u/0/folders/1EGZa5P87oPGAuvJ5XiLTG8cSgSO5CYCE)**
 
 This video covers:
 - S3 data lake structure  
